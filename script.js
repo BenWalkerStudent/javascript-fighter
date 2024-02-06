@@ -4,7 +4,7 @@ const healthBarDivs = document.querySelectorAll('.healthbar-div')
 
 const timeElem = document.querySelector('#timer')
 
-let timer = 99
+let timer = 1000
 
 let gameover = false
 
